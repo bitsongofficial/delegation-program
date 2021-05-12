@@ -1,4 +1,4 @@
-<p align="center" background="black"><img src="./banner_690x395.jpeg" width="690"></p>
+<p align="center" background="black"><img src=".img/banner_690x395.jpeg" width="690"></p>
 
 # BitSong Delegation Program
 
