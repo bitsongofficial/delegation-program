@@ -1,15 +1,9 @@
 ---
-name: Proposal Request
+name: Bi23 Proposal Request
 about: Create a proposal request to take part in the delegation program
 ---
 
-<!-- < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < < ☺
-If you have been invited to fill in this proposal, it means that your application for Round X of the Delegation Program has been positively evaluated.
-By compiling and publishing this document, the Validator undertakes to implement the proposal presented, in the event that it will be validated by BitSong's Team.
 
-Please submit your proposal report strictly in the following format, otherwise the report will be invalid.
-Please delete the Attention information when you submit the report.
-☺ > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > >  -->
 
 ## Type of Proposal
 
@@ -19,7 +13,7 @@ Please delete the Attention information when you submit the report.
 
 - [ ] Underlying Technology (e.g. performance)
 
-- [ ] Application Development
+- [X] Application Development
 
 - [ ] Marketing/Community Building
 
@@ -30,46 +24,56 @@ Please delete the Attention information when you submit the report.
 - [ ] Others
 
 ## Background
+When using bitsong's official block explorer, sometimes we cannot view more detailed and comprehensive statistical data, and the trend of some key data in a specific time period. Therefore, we plan to build a bitsong data statistical analysis website called "TheSong", where users can see all kinds of data in more dimensions. just like https://thecelo.com/.
 
-<!-- Describe the background of your proposal. Why you want to realize this idea? -->
 
 ## Describe The Proposal (No more than 50 words)
+TheSong is a bitsong date statistic provider, it will support these features:
 
-<!-- A clear and concise description of what the proposal is.  -->
+Dashboard: Display the more comprehensive and multi-dementional data statistics.
+
+validator: Display the whole validator list and every validators' details when click it.
+
+Exchange: Display the BTSG price and exchange data when it's avalible.
+
+Richlist: Display the rich list of token holders;
+
+Governance: Display the proposals and their status.
+
+APIs and Parameters: Display the open APIs and parameters you may need one day.
+
+Of course, if there're any data that needs to be displayed in the future, we are happy to add it.
+
 
 ## Business Model (Optional for underlying technology)
 
-<!-- Describe the user scenarios of your plan. Please demonstrate the profitability. -->
+
 
 ## Implementation Steps (Optional for economic model)
 
-<!-- Describe your proposal in detail. Elaborate the implementation steps to realize your plan. Please demonstrate the enforceability/perform ability/feasibility. -->
+
 
 ## Expected Outcome
+Our goal is to serve validators and token holders, so that they can view data in different periods in real time, so as to better understand the development of bitsong ecosystem.
 
-<!-- A clear and concise description of the outcome you expect.  -->
+if we're selected , we'll set the milestones and start the development asap, so as to complete it in two month.
+when it's done, we hope to achieve more than 5,000 page views per day and the number of visitors Reach over 100.
 
 ## Timetable (Optional)
-
-<!--
-Estimate the timetable of your plan.
-
 | Implementation Steps | Time Consuming |
 | -------------------- | -------------- |
-| step 1               | e.g. one month |
-| step 2               | ……             |
-| ……                   | ……             |
-| Total duration       | e.g. one year  |
+|step1: Dashboard,validator,Governance. | three weeks|
+|step2: Richlist, APIs and Parameters.|two weeks|
+|step3: Exchange,other demands.|two weeks|
 
--->
 
 ## Additional Context (Optional)
 
-<!-- Add any other context about the proposal here. -->
+
 
 ## Contact Information
+support@bi23.com
 
-<!-- Leave your contact information (preferably email address) for future needs. -->
 
 ## For Admin Use
 
