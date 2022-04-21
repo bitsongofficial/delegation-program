@@ -6,7 +6,7 @@
 **End time: 1st April 1970**
 
 &nbsp;
-###Involved DAO members
+### Involved DAO members
 * Member1 (discord/github/telegram/mail/...)
 * Member2 (discord/github/telegram/mail/...)
 
