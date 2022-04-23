@@ -1,6 +1,6 @@
-#Delegations on Epoch 1
+# Delegations on Epoch 1
 
-###New and eligible:
+### New and eligible:
 | Validator | Delegation |
 |-----------|------------|
 |           | +          |
