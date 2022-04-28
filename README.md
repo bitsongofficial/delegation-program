@@ -72,7 +72,7 @@ If these were the only validators eligible for the BitSong delegation the total 
 |     D     |         41.63%          |
 
 ## How to join
-Submit an issue at: <GitHub Repo Link>
+Submit an issue in this repo using the Application template.
 
 ## Epoch distribution
 * Every 3 months BitSong delegation is evaluated.
