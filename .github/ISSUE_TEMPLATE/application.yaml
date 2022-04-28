@@ -47,14 +47,6 @@ body:
         - Running an public rpc/api 
     validations:
       required: true      
-  - type: input
-    id: php
-    attributes:
-      label: PHP Version
-      description: "Please provide the full PHP version that is powering Tinkerwell."
-      placeholder: "PHP 8.0.7, built: Jun  4 2021 01:50:04"
-    validations:
-      required: true
   - type: textarea
     id: details
     attributes:
