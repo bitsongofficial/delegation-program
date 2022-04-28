@@ -1,10 +1,12 @@
 name: Application
 description: Apply to receive a delegation from the delegation DAO
+labels: Application
 body:
   - type: markdown
     attributes:
       value: |
         Thank you for applying to the Bitsong Delegation program. Please take your time and give us as much detail as possible to ensure a good evaluation of your application..
+        
         ---
     
   - type: input
