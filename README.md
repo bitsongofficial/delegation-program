@@ -9,7 +9,7 @@
 * Governance participation score of 90% or higher. **SCORE:** Validator voted / total proposals during validator in active set. 0/0 is considered as 100%.
 * 1 soft slash is allowed during 1 epoch, when the 2nd soft slash happens the validator will lose their BitSong Delegation and can't submit for a delegation next epoch.
 * When a validator suffers from a hard slash the validator will lose their BitSong Delegation and can't submit for a delegation for at least 6 month (duration decided by the BitSong Delegation DAO).
-* 
+* The Delegation DAO reserves the right to completely exclude validators from the program if valid evidence of harmful behaviour is presented.
 
 ## Delegation criteria
 
