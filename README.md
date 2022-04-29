@@ -1,4 +1,10 @@
-# BitSong Delegation DAO
+# BitSong Delegation Program
+
+The Bitsong delegation program was created to encourage and support contributions from validators. To incentivise these contributions the Bitsong S.r.l. allocated a special fund containing 4M Btsg. In order to ensure a fair distribution a special delegation DAO has been created which will work independently in the evaluation of the final delegations. 
+
+## Amount of tokens available for the Campaign:
+
+- 4,000,000 btsg (4 Milion)
 
 ## Prerequisites
 * Basic information is set on chain: Contact information (website, twitter, telegram, etc.), details, avatar/logo.
@@ -75,3 +81,4 @@ Submit an issue in this repository using the Application template.
 ## Epoch distribution
 * Every 3 months BitSong delegation is evaluated.
 
+[**Website**](https://bitsong.io/) **|** [**Discord**](https://discord.gg/E3qEnzb) **|** [**Telegram**](https://t.me/BitSongOfficial) **|** [**Github**](https://github.com/bitsongofficial/go-bitsong) **|** **[Mainnet](https://explorebitsong.com/)**
