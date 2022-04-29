@@ -14,6 +14,7 @@ The Bitsong delegation program was created to encourage and support contribution
 * Maximum commission is 10%.
 * A validator must be live on mainnet for at least 1 month (active or inactive).
 * Governance participation score of 90% or higher. **SCORE:** Validator voted / total proposals during validator in active set. 0/0 is considered as 100%.
+* The Delegation DAO reserves the right to completely exclude validators from the program if valid evidence of harmful behaviour is presented.
 
 ## Delegation criteria
 
