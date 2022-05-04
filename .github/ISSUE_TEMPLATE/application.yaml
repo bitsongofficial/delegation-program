@@ -1,0 +1,66 @@
+name: Application
+description: Apply to receive a delegation from the delegation DAO
+labels: Application
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for applying to the Bitsong Delegation program. Please take your time and give us as much detail as possible to ensure a good evaluation of your application..
+        
+        ---
+    
+  - type: input
+    id: validator
+    attributes:
+      label: Validator address
+      description: "Please provide the address of your validator "
+      placeholder: "bitsongvaloper..."
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: "On Chain Data"
+      description: Please confirm that the basic information (validator contact information (website, twitter, telegram, etc.), details & avatar/logo) is set on chain
+      options:
+        - label: I confirm to have set my validator information on chain
+          required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact information
+      description: "Please provide a possibility to contact you"
+      placeholder: "Discord/Telegram/Mail"
+    validations:
+      required: true
+  - type: dropdown
+    id: categories
+    attributes:
+      label: "Application categories"
+      description: "Please provide all categories you want to apply for. Each application automatically qualifies for the uptime and self-delegation categories"
+      multiple: true
+      options:
+        - Participation in the BitSong ecosystem 
+        - Core development
+        - None core development
+        - Running relayers
+        - Running an archive node 
+        - Running an public rpc/api 
+    validations:
+      required: true      
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Please provide all the information in regards to your selected application categories
+    validations:
+      required: true
+  - type: textarea
+    id: goals
+    attributes:
+      label: Goals
+      description: What are your goals that you want to achieve with your contribution??
+  - type: textarea
+    id: tiemtable
+    attributes:
+      label: Timetable
+      description: If there is a timetable for the contribution, please feel free to share it here. It is definitely recommended, especially for long-term contributions.
