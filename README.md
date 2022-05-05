@@ -1,3 +1,9 @@
+## Current Status
+🟢 Application period open until Friday May 23 - Epoch starts on June 1st!
+
+Please apply by creating a issue using the Application template. 
+
+
 # BitSong Delegation Program
 
 The Bitsong delegation program was created to encourage and support contributions from validators. To incentivise these contributions the Bitsong S.r.l. allocated a special fund containing 4M Btsg. In order to ensure a fair distribution a special delegation DAO has been created which will work independently in the evaluation of the final delegations.
@@ -9,6 +15,7 @@ The Bitsong delegation program was created to encourage and support contribution
 ## Prerequisites
 
 - Basic information is set on chain: Contact information (website, twitter, telegram, etc.), details, avatar/logo.
+- No delegation without application. To receive the uptime or self stake delegation validators will also need to apply. 
 
 ## Rules
 
