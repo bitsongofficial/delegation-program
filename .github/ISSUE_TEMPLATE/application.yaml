@@ -39,6 +39,9 @@ body:
       description: "Please provide all categories you want to apply for. Each application automatically qualifies for the uptime and self-delegation categories"
       multiple: true
       options:
+        - Uptime
+        - Commission restake
+        - Self delegation
         - Participation in the BitSong ecosystem 
         - Core development
         - None core development
