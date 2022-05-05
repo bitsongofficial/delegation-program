@@ -1,3 +1,6 @@
+## Current Status
+🟢 Application deadline open until Friday May 23
+
 # BitSong Delegation Program
 
 The Bitsong delegation program was created to encourage and support contributions from validators. To incentivise these contributions the Bitsong S.r.l. allocated a special fund containing 4M Btsg. In order to ensure a fair distribution a special delegation DAO has been created which will work independently in the evaluation of the final delegations.
