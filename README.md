@@ -1,5 +1,6 @@
 ## Current Status
 🟢 Application period open until Friday May 23 - Epoch starts on June 1st!
+
 Please apply by creating a issue using the Application template. 
 
 # BitSong Delegation Program
