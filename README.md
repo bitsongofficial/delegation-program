@@ -1,5 +1,6 @@
 ## Current Status
-🟢 Application deadline open until Friday May 23
+🟢 Application period open until Friday May 23 - Epoch starts on June 1st!
+Please apply by creating a issue using the Application template. 
 
 # BitSong Delegation Program
 
@@ -12,12 +13,13 @@ The Bitsong delegation program was created to encourage and support contribution
 ## Prerequisites
 
 - Basic information is set on chain: Contact information (website, twitter, telegram, etc.), details, avatar/logo.
+- No delegation without application. To receive the uptime or self stake delegation validators will also need to apply. 
 
 ## Rules
 
 - Maximum commission is 10%.
 - A validator must be live on mainnet for at least 1 month (active or inactive).
-- Governance participation score of 90% or higher. **SCORE:** Validator voted / total proposals during validator in active set. 0/0 is considered as 100%.
+- Governance participation score of 90% or higher. **SCORE:** Validator voted / total proposals during validator in active set. 0/0 is considered as 100%. Proposals before #11 will not be taken into account.
 - 1 soft slash is allowed during 1 epoch, when the 2nd soft slash happens the validator will lose their BitSong Delegation and can't submit for a delegation next epoch.
 - When a validator suffers from a hard slash the validator will lose their BitSong Delegation and can't submit for a delegation for at least 6 month (duration decided by the BitSong Delegation DAO).
 - The Delegation DAO reserves the right to completely exclude validators from the program if valid evidence of harmful behaviour is presented.
