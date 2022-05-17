@@ -1,0 +1,22 @@
+{
+  "rpc": {
+    "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq": "https://rpc-bitsong.itastakers.com",
+    "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x": "https://bitsong-rpc.validatrium.club"
+  },
+  "api": {
+    "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq": "https://lcd-bitsong.itastakers.com",
+    "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x": "https://bitsong-api.validatrium.club"
+  },
+  "grpc": {
+
+  },
+  "rpc-archive": {
+    "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq": "https://rpc-bitsong-archive.itastakers.com"
+  },
+  "api-archive": {
+    "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq": "https://lcd-bitsong-archive.itastakers.com"
+  },
+  "grpc-archive": {
+
+  }
+}
