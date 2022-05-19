@@ -10,13 +10,13 @@
   "grpc": {
 
   },
-  "rpc-archive": {
+  "rpcarchive": {
     "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq": "https://rpc-bitsong-archive.itastakers.com"
   },
-  "api-archive": {
+  "apiarchive": {
     "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq": "https://lcd-bitsong-archive.itastakers.com"
   },
-  "grpc-archive": {
+  "grpcarchive": {
 
   }
 }
