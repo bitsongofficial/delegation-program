@@ -62,30 +62,30 @@ The total points (after applying the multipliers) of all participants represents
 
 ## Example
 
-Validator A has an uptime of 99.5%. For this validator A will receive (1 - (1 - 99.5 / 100) / 0.02) _ 1000 = 750 points. They did not participate in the BitSong ecosystem and also did not add any core development value. Validator A created a small faucet bot and it was decided to give it 1400 points for that from the None core development criteria. No relayers have been setup. Validator A does have a full archive node running, but they forgot to monitor it and it had an update of 98.1% since last epoch. For this validator A gains (1 - (1 - 98.1 / 100) / 0.02) _ 1500 = 75 points. The full archive node was also rpc/api enabled for the public gaining another (1 - (1 - 98.1 / 100) / 0.02) _ 1000 = 50 points. They also had a separate public rpc/api node available with an uptime of 99.9% which gained them (1 - (1 - 99.9 / 100) / 0.02) _ 1000 = 950 points. Validator A is not self staking commission and does not meet the self delegation requirement.
+Validator A has an uptime of 99.5%. For this validator A will receive (1 - (1 - 99.5 / 100) / 0.02) - 1000 = 750 points. They did not participate in the BitSong ecosystem and also did not add any core development value. Validator A created a small faucet bot and it was decided to give it 1400 points for that from the None core development criteria. No relayers have been setup. Validator A does have a full archive node running, but they forgot to monitor it and it had an update of 98.1% since last epoch. For this validator A gains (1 - (1 - 98.1 / 100) / 0.02) - 1500 = 75 points. The full archive node was also rpc/api enabled for the public gaining another (1 - (1 - 98.1 / 100) / 0.02) - 1000 = 50 points. They also had a separate public rpc/api node available with an uptime of 99.9% which gained them (1 - (1 - 99.9 / 100) / 0.02) - 1000 = 950 points. Validator A is not self staking commission and does not meet the self delegation requirement.
 
 **The total criteria score for validator A is 3225 points. Assuming they are ranked 50 without BitSong delegations and we apply the multiplier they will end up with 3225 \* 0.5 = 1612.5 points**
 
-Validator B has an uptime of 99.9%. For this validator B will receive (1 - (1 - 99.9 / 100) / 0.02) _ 1000 = 950 points. Validator B was very active in public chats, social media (in regards to BitSong) and created some guides. For this Validator B gained 2000 points. No development was done, no relayers, no full archive nodes and no public rpc/api's have been setup. Validator B does self stake 90% of his commission. Herefor validator B gains an extra 90% _ 1000 = 900 points. However the validator currently also does not meet the self delegation requirement.
+Validator B has an uptime of 99.9%. For this validator B will receive (1 - (1 - 99.9 / 100) / 0.02) - 1000 = 950 points. Validator B was very active in public chats, social media (in regards to BitSong) and created some guides. For this Validator B gained 2000 points. No development was done, no relayers, no full archive nodes and no public rpc/api's have been setup. Validator B does self stake 90% of his commission. Herefor validator B gains an extra 90% \* 1000 = 900 points. However the validator currently also does not meet the self delegation requirement.
 
 **The total criteria score for validator B is 3850 points. Assuming they are ranked 55 without BitSong delegations and we apply the multiplier they will end up with 3850 \* 0.55 = 2117.5 points.**
 
-Validator C has an uptime of 99.9%. For this validator C will receive (1 - (1 - 99.9 / 100) / 0.02) _ 1000 = 950 points. Validator C did not participate in the BitSong ecosystem. No development was done, no relayers, no full archive nodes and no public rpc/api's have been setup. Validator C does self stake 50% of his commission. Herefor validator C gains an extra 50% _ 1000 = 500 points. Validator C also currently has a 50% self stake percentage and receives an extra 500 points.
+Validator C has an uptime of 99.9%. For this validator C will receive (1 - (1 - 99.9 / 100) / 0.02) - 1000 = 950 points. Validator C did not participate in the BitSong ecosystem. No development was done, no relayers, no full archive nodes and no public rpc/api's have been setup. Validator C does self stake 50% of his commission. Herefor validator C gains an extra 50% \* 1000 = 500 points. Validator C also currently has a 50% self stake percentage and receives an extra 50% \* 1000 = 500 points.
 
 **The total criteria score for validator C is has 1950 points. Assuming they are ranked 90 without BitSong delegations and we apply the multiplier they will end up with 1950 \* 0.9 = 1755 points.**
 
-Validator D has an uptime of 99.9%. For this validator D will receive (1 - (1 - 99.9 / 100) / 0.02) _ 1000 = 950 points. Validator D was active in public BitSong chats and gained 500 points for this. Made a big value to the core development which was worth 2600 points. Also a basic explorer was made for 1500 points. Validator D is running 2 relayers with an uptime of 99.7% and 99%. For this validator D will receive (1 - (1 - 99.7 / 100) / 0.02) _ 2000 = 1700 points and (1 - (1 - 99 / 100) / 0.02) _ 2000 = 1000 points. No full archive node and public rpc/api has been setup. Validator D is self delegating 30% of his commission. Herefor validator D gains an extra 30% _ 1000 = 300 points. However the validator currently also does not meet the self delegation requirement.
+Validator D has an uptime of 99.9%. For this validator D will receive (1 - (1 - 99.9 / 100) / 0.02) - 1000 = 950 points. Validator D was active in public BitSong chats and gained 500 points for this. Made a big value to the core development which was worth 2600 points. Also a basic explorer was made for 1500 points. Validator D is running 2 relayers which were rewarded with 1700 points and 1000 points. No full archive node and public rpc/api has been setup. Validator D is self delegating 30% of his commission. Herefor validator D gains an extra 30% \* 1000 = 300 points. However the validator currently also does not meet the self delegation requirement.
 
-**The total criteria score for validator D is 8550 points. Assuming they are ranked 41 without BitSong delegations and we apply the multiplier they will end up with 8550 \* 0.41 = 3591 points.**
+**The total criteria score for validator D is 8550 points. Assuming they are ranked 41 without BitSong delegations and we apply the multiplier they will end up with 8550 \* 0.41 = 3505.5 points.**
 
-If these were the only validators eligible for the BitSong delegation the total points of all validator add up to 1612.5 + 2117.5 + 1755 + 3591 = 9076 points representing the full BitSong delegation. No matter how big or small the BitSong delegation is the validators will receive the following portion of it:
+If these were the only validators eligible for the BitSong delegation the total points of all validator add up to 1612.5 + 2117.5 + 1755 + 3505.5 = 8990.5 points representing the full BitSong delegation. No matter how big or small the BitSong delegation is the validators will receive the following portion of it:
 
 | Validator | % of BitSong delegation |
 | :-------: | :---------------------: |
-|     A     |         17.77%          |
-|     B     |         23.33%          |
-|     C     |         19.34%          |
-|     D     |         39.56%          |
+|     A     |         17.94%          |
+|     B     |         23.55%          |
+|     C     |         19.52%          |
+|     D     |         38.99%          |
 
 ## How to join
 
