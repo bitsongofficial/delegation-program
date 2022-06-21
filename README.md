@@ -36,7 +36,7 @@ The Bitsong delegation program was created to encourage and support contribution
 - **Max 1500 points:** Running an archive node with a specific uptime score. **SCORE:** Less than 98% will result in 0 points otherwise (1 - (1 - Uptime / 100) / 0.02) \* 1500 points.
 - **Max 1000 points:** Running an public rpc/api with a specific uptime score. **SCORE:** Less than 98% will result in 0 points otherwise (1 - (1 - Uptime / 100) / 0.02) \* 1000 points.
 - **Max 1000 points:** Commission restake score (what percentage is the validator willing to self delegate off his gained commission during the epoch). **SCORE:** Percentage self staked \* 1000 points.
-- **Max 1000 points:** Self delegation score (what is the validators ratio between self stake and voting power). **SCORE:** Less than 0.5% will result in 0 points otherwise Self stake / Voting power \* 1000 points.
+- **Max 1000 points:** Self delegation score (what is the validators ratio between self stake and voting power). **SCORE:** Less than 0.5% will result in 0 points. Furthermore, at least 500 BTSG must be staked to be eligible for the self stake. If less than 5000 BTSG are staked the score is limited to 500 points. Otherwise Self stake / Voting power \* 1000 points. 
 
 **Total max: 15000 points.**
 
