@@ -2,10 +2,17 @@
   "rpc": {
     "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq": "https://rpc-bitsong.itastakers.com",
     "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x": "https://bitsong-rpc.validatrium.club"
+    "bitsongvaloper17dpklyxlrn9kypkd3khy9t98v8qddnghllnt7x": "http://207.244.253.244:26657",
+    "bitsongvaloper16wgum78qxca2vrk3s45lu0cc52pj82hjs3h04z": "https://bitsong.stakesystems.io:2053",
+    "bitsongvaloper18xfqngs09n7a86lesrh4q5atjx37a3qc56hqhw": "https://rpc.bitsong.ezstaking.io",
+    "bitsongvaloper1x2slrjfmgxq7qx3xwmsjue73t5ynmwy7jgpdtr": "https://rpc.bitsong.chaintools.tech"
   },
   "api": {
     "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq": "https://lcd-bitsong.itastakers.com",
-    "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x": "https://bitsong-api.validatrium.club"
+    "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x": "https://bitsong-api.validatrium.club",
+    "bitsongvaloper16wgum78qxca2vrk3s45lu0cc52pj82hjs3h04z": "https://bitsong.stakesystems.io",
+    "bitsongvaloper18xfqngs09n7a86lesrh4q5atjx37a3qc56hqhw": "https://lcd.bitsong.ezstaking.io",
+    "bitsongvaloper1x2slrjfmgxq7qx3xwmsjue73t5ynmwy7jgpdtr": "https://api.bitsong.chaintools.tech"
   },
   "grpc": {
 
