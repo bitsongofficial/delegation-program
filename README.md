@@ -1,5 +1,6 @@
 ## Current Status
-🔴 Application period closed - Evaluation process ongoing
+🟢 Application period open until August 14!
+Total delegation for this epoch (01.09.2022 - 01.01.2023): 6M $BTSG
 
 
 
