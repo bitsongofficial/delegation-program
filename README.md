@@ -2,13 +2,13 @@
 🟢 Application period open until August 14!
 Total delegation for this epoch (01.09.2022 - 01.01.2023): 6M $BTSG
 
-Please reopen your issue if you applied before. Otherwise create a new issue by using the template.
+Please link your issue if you applied before. You don't need to use the template in that case as we only need the changes compared to the initial application. Otherwise create a new issue by using the template.
 
 
 
 # BitSong Delegation Program
 
-The Bitsong delegation program was created to encourage and support contributions from validators. To incentivise these contributions the Bitsong S.r.l. allocated a special fund containing 4M Btsg. In order to ensure a fair distribution a special delegation DAO has been created which will work independently in the evaluation of the final delegations.
+The Bitsong delegation program was created to encourage and support contributions from validators. To incentivise these contributions the Bitsong S.r.l. allocated a special fund containing 6M Btsg. In order to ensure a fair distribution a special delegation DAO has been created which will work independently in the evaluation of the final delegations.
 
 ## Amount of tokens available for the Campaign:
 
