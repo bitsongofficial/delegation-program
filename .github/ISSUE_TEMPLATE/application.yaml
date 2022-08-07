@@ -12,9 +12,9 @@ body:
   - type: input
     id: validator
     attributes:
-      label: Validator address
+      label: Validator address 
       description: "Please provide the address of your validator "
-      placeholder: "bitsongvaloper..."
+      placeholder: "bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry"
     validations:
       required: true
   - type: checkboxes
@@ -29,14 +29,14 @@ body:
     attributes:
       label: Contact information
       description: "Please provide a possibility to contact you"
-      placeholder: "Discord/Telegram/Mail"
+      placeholder: "SAKURA#0129/@STAVRRR/cloname@ya.ru"
     validations:
       required: true
   - type: dropdown
     id: categories
     attributes:
       label: "Application categories"
-      description: "Please provide all categories you want to apply for. Each application automatically qualifies for the uptime and self-delegation categories"
+      description: "Uptime, Commission restake, Self delegation, None core development, Running relayers, Running an archive node, Running an public rpc/api"
       multiple: true
       options:
         - Uptime
@@ -54,16 +54,17 @@ body:
     id: details
     attributes:
       label: Details
-      description: Please provide all the information in regards to your selected application categories
+      description: We have been validating mainnets and testnets since early 2020. And so our team provides RPC projects, IBC relayers in the right networks, the development of various tools for validators. We develop monitoring.
     validations:
       required: true
   - type: textarea
     id: goals
     attributes:
       label: Goals
-      description: What are your goals that you want to achieve with your contribution??
+      description: Our goal is to become a major staking provider in Europe and Asia. We develop partnerships and develop diversified.
   - type: textarea
     id: tiemtable
     attributes:
       label: Timetable
-      description: If there is a timetable for the contribution, please feel free to share it here. It is definitely recommended, especially for long-term contributions.
+      description: If the delegation approves, we will promote your project in our communities as actively as possible. Because we will be interested in it. In 1-2 months, there will be tangible results.
+      💻 Our github https://github.com/obajay
