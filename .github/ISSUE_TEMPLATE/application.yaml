@@ -14,7 +14,7 @@ body:
     attributes:
       label: Validator address
       description: "Please provide the address of your validator "
-      placeholder: "bitsongvaloper..."
+      placeholder: "bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4"
     validations:
       required: true
   - type: checkboxes
@@ -50,19 +50,19 @@ body:
         - Running an public rpc/api 
     validations:
       required: true      
-  - type: textarea
+  - type: My website https://web3validator.info/ ,and validator portfolio https://github.com/cybernekit/SomethingAboutMyself/blob/main/web34ever-self-identity.md
     id: details
     attributes:
       label: Details
       description: Please provide all the information in regards to your selected application categories
     validations:
       required: true
-  - type: textarea
+  - type: Commission restake (https://www.mintscan.io/bitsong/txs/DFAD818DB7BA0E782AA2DA1172713004B22CC49CFD2EB4817FE838D6CFDD1DB2, https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4),Participation in the BitSong ecosystem (Governance),None core development (Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail: https://t.me/BitsongUpTime_bot ), Running an public rpc/api (http://65.108.66.34:26257/) 
     id: goals
     attributes:
       label: Goals
       description: What are your goals that you want to achieve with your contribution??
-  - type: textarea
+  - type: Web3 validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support! 
     id: tiemtable
     attributes:
       label: Timetable
