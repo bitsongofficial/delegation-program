@@ -16,7 +16,7 @@ The Bitsong delegation program was created to encourage and support contribution
 
 ## Prerequisites
 
-- Basic information is set on chain: Contact information (website, twitter, telegram, etc.), details, avatar/logo.
+- Basic information is set on chain (explorebitsong & mintscan): Contact information (website, twitter, telegram, etc.), details, avatar/logo.
 - No delegation without application. To receive the uptime or self stake delegation validators will also need to apply. 
 
 ## Rules
