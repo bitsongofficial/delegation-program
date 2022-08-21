@@ -1,6 +1,6 @@
 ## Current Status
 🟢 Application period open until August 14!
-Total delegation for this epoch (01.09.2022 - 01.01.2023): 6M $BTSG
+Total delegation for this epoch (01.09.2022 - 30.12.2022): 6M $BTSG
 
 Please link your issue if you applied before. You don't need to use the template in that case as we only need the changes compared to the initial application. Otherwise create a new issue by using the template.
 
