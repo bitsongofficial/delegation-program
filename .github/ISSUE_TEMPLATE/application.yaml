@@ -40,7 +40,7 @@ body:
       multiple: true
       options:
         - Uptime
-        - Commission restake
+        - Commission restake (specify % in Details)
         - Self delegation
         - Participation in the BitSong ecosystem 
         - Core development
