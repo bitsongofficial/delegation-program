@@ -31,15 +31,15 @@ The Bitsong delegation program was created to encourage and support contribution
 
 ## Delegation criteria
 
-- **Max 1000 points:** Uptime score (over period from last distribution epoch til now). **SCORE:** Less than 98% will result in 0 points otherwise (1 - (1 - Uptime / 100) / 0.02) \* 1000 points.
+- **Max 1000 points:** Uptime score (over period from last distribution epoch til now). **SCORE:** 98% uptime or less will result in 0 points otherwise (1 - (1 - Uptime / 100) / 0.02) \* 1000 points.
 - **Max 2000 points:** Participation in the BitSong ecosystem score (Social media, Telegram, Discord, but also writing documentation, guides, posts ect.). **SCORE:** decided by the BitSong Delegation DAO.
 - **Max 3000 points:** Core development score. **SCORE:** decided by the BitSong Delegation DAO.
 - **Max 2500 points:** None core development score. **SCORE:** decided by the BitSong Delegation DAO.
 - **Max 2000 points:** Running relayers with a specific uptime score. **SCORE:** decided by the BitSong Delegation DAO.
-- **Max 1500 points:** Running an archive node with a specific uptime score. **SCORE:** Less than 98% will result in 0 points otherwise (1 - (1 - Uptime / 100) / 0.02) \* 1500 points.
-- **Max 1000 points:** Running an public rpc/api with a specific uptime score. **SCORE:** Less than 98% will result in 0 points otherwise (1 - (1 - Uptime / 100) / 0.02) \* 1000 points.
+- **Max 1500 points:** Running an archive node with a specific uptime score. **SCORE:** 98% uptime or less will result in 0 points otherwise (1 - (1 - Uptime / 100) / 0.02) \* 1500 points.
+- **Max 1000 points:** Running an public rpc/api with a specific uptime score. **SCORE:** 98% uptime or less will result in 0 points otherwise (1 - (1 - Uptime / 100) / 0.02) \* 1000 points.
 - **Max 1000 points:** Commission restake score (what percentage is the validator willing to self delegate off his gained commission during the epoch). **SCORE:** Percentage self staked \* 1000 points.
-- **Max 1000 points:** Self delegation score (what is the validators ratio between self stake and voting power). **SCORE:** Less than 0.5% will result in 0 points. Furthermore, at least 500 BTSG must be staked to be eligible for the self stake. If less than 5000 BTSG are staked the score is limited to 500 points. Otherwise Self stake / Voting power \* 1000 points. 
+- **Max 1000 points:** Self delegation score (what is the validators ratio between self stake and voting power). **SCORE:** 0.5% or less will result in 0 points. Furthermore, at least 500 BTSG must be staked to be eligible for the self stake. If less than 5000 BTSG are staked the score is limited to 500 points. Otherwise Self stake / Voting power \* 1000 points. 
 
 **Total max: 15000 points.**
 
