@@ -12,7 +12,7 @@ The Bitsong delegation program was created to encourage and support contribution
 
 ## Amount of tokens available for the Campaign:
 
-- 4,000,000 btsg (4 Milion)
+- 6,000,000 btsg (6 Milion)
 
 ## Prerequisites
 
