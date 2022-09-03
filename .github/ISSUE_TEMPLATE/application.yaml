@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Before you continue, please make sure you read the BitSong Delegation Program (Prerequisites, Rules and Delegation criteria)!
+        # Before you continue, please make sure you read the [BitSong Delegation Program](https://github.com/bitsongofficial/delegation-program) (Prerequisites, Rules and Delegation criteria)!
         Thank you for applying to the Bitsong Delegation program. Please take your time and give us as much detail as possible to ensure a good evaluation of your application.
         
         ---
